@@ -391,6 +391,7 @@ export default function Section2({
               {/* Title */}
               <h3 className="font-semibold text-lg mb-2">
                 {course.title}
+                sdfghjk
               </h3>
 
               {/* Rating */}
